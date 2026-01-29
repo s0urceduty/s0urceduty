@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/33effacc-8990-49c6-8989-fc73b987cb49)
+<img width="7285" height="3732" alt="Subliminal Monopoly Term" src="https://github.com/user-attachments/assets/02603636-b77f-42a9-9d7f-eef858f4bd86" />
 
 #
 
