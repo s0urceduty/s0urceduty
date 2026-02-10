@@ -1,4 +1,4 @@
-<img width="7285" height="3732" alt="Subliminal Monopoly Term" src="https://github.com/user-attachments/assets/02603636-b77f-42a9-9d7f-eef858f4bd86" />
+![Math](https://github.com/user-attachments/assets/d5972b38-ebb7-4a69-935c-f36a4ef010de)
 
 #
 
