@@ -1,4 +1,4 @@
-![Math](https://github.com/user-attachments/assets/d5972b38-ebb7-4a69-935c-f36a4ef010de)
+<img width="1536" height="1024" alt="Programming" src="https://github.com/user-attachments/assets/d87b7fb1-7a46-45bf-b541-4120d82cd0fe" />
 
 #
 
