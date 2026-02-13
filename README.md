@@ -8,7 +8,3 @@ Since 2022, this company has steadily grown, with an impressive portfolio that i
 The name "Sourceduty" was inspired by source codes and duties or tasks. There is more source work than obligation to a duty. This name was chosen and then quickly acquired when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time. As a sole proprietorship, Sourceduty is on the cusp of transforming into a larger business, poised to scale while maintaining its creative identity. With Alex’s boundless tenacity at the helm, the company is not only set to endure but to lead in shaping the future of digital creativity and open-source collaboration for years to come. 
 
 Sourceduty uses 0.0 instead of 0.0.0 is a purposeful strategy to reduce bugs by simplifying how software state, stability, and change are communicated during development and repair. By avoiding multi-segment version numbers, the system eliminates false signals of maturity and precision that can lead developers to make incorrect assumptions about readiness, compatibility, or behavior. This simplification removes the need to debate or automate patch-level increments, reduces version-based branching logic, and keeps attention focused on correctness rather than bookkeeping.
-
-#
-
-![Repo Card](https://github.com/user-attachments/assets/760e1375-48e4-4a20-9651-daf53f6a8385)
