@@ -13,3 +13,14 @@ Also, Alex prefers to develop Python projects using large, single-file architect
 -----------
 
 Building and developing with Sourceduty’s shared open-source Python functions creates a modular foundation for rapid experimentation, structured prototyping, and scalable software design. Because the functions are organized around reusable computational patterns, developers can combine them into larger systems without rewriting core logic, accelerating innovation across simulations, image processing, logic modeling, and scientific experimentation. This open structure encourages collaborative refinement, where improvements can compound over time into a powerful shared toolkit. Even beyond Python, these functions can serve as architectural references or be translated into other languages such as JavaScript, C++, or Rust, especially when supported by an AI chatbot.
+
+-----------
+
+Business History
+
+2022 ~ Sourceduty.com launched
+2023 ~ Expansion into 3D model design
+2024 ~ Rapid custom GPT development
+2025 ~ Major lawsuits and custom GPTs
+2026 ~ Alex's retirement and social media deleted
+2027 ~ 
