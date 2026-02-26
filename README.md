@@ -18,9 +18,11 @@ Building and developing with Sourceduty’s shared open-source Python functions 
 
 Business History
 
+``
 2022 ~ Sourceduty.com launched
 2023 ~ Expansion into 3D model design
 2024 ~ Rapid custom GPT development
 2025 ~ Major lawsuits and custom GPTs
 2026 ~ Alex's retirement and social media deleted
 2027 ~ 
+``
