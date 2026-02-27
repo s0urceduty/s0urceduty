@@ -1,4 +1,4 @@
-<img width="2186" height="1024" alt="Sourced" src="https://github.com/user-attachments/assets/04def3ef-1aec-4a2a-aff6-1998751bfbcf" />
+<img width="2186" height="1024" alt="Science" src="https://github.com/user-attachments/assets/7c8c04c3-e4a6-41ee-a393-9e0bcf3154a0" />
 
 -----------
 
